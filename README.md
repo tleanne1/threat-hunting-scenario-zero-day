@@ -1,7 +1,6 @@
 ![Zero-Day-Attack](https://github.com/user-attachments/assets/07512d14-dbba-4839-89f9-ed96b3ddd73d)
 
 # Threat Hunt Report: Pwncrypt.ps1 Malware Detection
-- [Scenario Creation](https://github.com/tleanne1/threat-hunting-scenario-zero-day/blob/main/threat-hunting-scenario-zero-day-creation.md-)
 
 ## Platforms and Languages Leveraged
 
